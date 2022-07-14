@@ -16,7 +16,6 @@ Angular Materila Icons Names website : https://www.angularjswiki.com/angular/ang
 ## Project Look and Feel
 
 ### Main Screen
-Material Design Table Implementation with Pagination and CRUD Operations
 ![](FullStack_RactiveForm_Pagination_Table/Images/Main_Screen.PNG)
 
 
