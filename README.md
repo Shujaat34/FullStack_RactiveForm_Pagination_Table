@@ -16,11 +16,12 @@ Angular Materila Icons Names website : https://www.angularjswiki.com/angular/ang
 ## Project Look and Feel
 
 ### Main Screen
+Material Design Tabel Implementaion with Fitler, Pagination and CRUD Operations.
 ![](Images/Main_Screen.PNG)
 
 
 ### Reactive Form
-Form with Material Design controls
+Form with Material Design controls.
 ![](Images/Form.PNG)
 
 
